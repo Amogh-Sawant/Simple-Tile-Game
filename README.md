@@ -1,4 +1,5 @@
-# Simple-Tile-Game
+# A Star Algorithm solves 8 puzzle. Visual Representation
+
 just a random tile game. There are 3 files. 
 a.py --- A* algorithm to solve Tile game
 tiles.py --- 8 puzzle game which user can play game
